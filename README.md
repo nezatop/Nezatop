@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<!--
-**nezatop/Nezatop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Personal site
-- 🌱 I’m currently learning FastAPI
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center"><a href="https://daniilshat.ru/" target="_blank">Никита Королёв</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Python разработчик</h3>
