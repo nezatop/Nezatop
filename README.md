@@ -3,9 +3,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nezatop&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nezatop&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nezatop&theme=dark)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nezatop&theme=dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nezatop&theme=dark)
 
